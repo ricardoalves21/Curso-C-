@@ -1,0 +1,13 @@
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\xampp\htdocs\git\Curso-C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
