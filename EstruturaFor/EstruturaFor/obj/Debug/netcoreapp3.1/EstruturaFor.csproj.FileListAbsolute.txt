@@ -1,0 +1,13 @@
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.exe
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\xampp\htdocs\git\Curso-Csharp\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.genruntimeconfig.cache
