@@ -1,0 +1,13 @@
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.exe
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.dll
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.pdb
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.dll
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.pdb
+C:\xampp\htdocs\git\Curso-Csharp\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.genruntimeconfig.cache
