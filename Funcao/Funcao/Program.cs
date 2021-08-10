@@ -11,9 +11,11 @@ namespace Funcao
             int n2 = int.Parse(Console.ReadLine());
             int n3 = int.Parse(Console.ReadLine());
 
-            double resultado = Maior(n1, n2, n3);
-            Console.WriteLine("Maior: " + resultado);
+            // atribuir à variável resultado a função Maior
+            int resultado = Maior(n1, n2, n3);
+            Console.WriteLine("Maior: " + resultado);  // apresentar o conteúdo da variável resultado
 
+            // criar a função
             static int Maior(int a, int b, int c)
             {
                 int m;
