@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\git\\Curso-Csharp\\Primeiro\\Primeiro\\Primeiro.csproj",
-      "projectName": "Primeiro",
-      "projectPath": "C:\\xampp\\htdocs\\git\\Curso-Csharp\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\git\\Curso-Csharp\\ExercicioFixacao\\ExercicioFixacao\\ExercicioFixacao.csproj",
+      "projectName": "ExercicioFixacao",
+      "projectPath": "C:\\xampp\\htdocs\\git\\Curso-Csharp\\ExercicioFixacao\\ExercicioFixacao\\ExercicioFixacao.csproj",
       "packagesPath": "C:\\Users\\rical\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\git\\Curso-Csharp\\Primeiro\\Primeiro\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\git\\Curso-Csharp\\ExercicioFixacao\\ExercicioFixacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
