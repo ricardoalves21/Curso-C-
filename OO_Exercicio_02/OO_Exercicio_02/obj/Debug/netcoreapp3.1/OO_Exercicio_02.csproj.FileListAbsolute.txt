@@ -1,0 +1,12 @@
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\bin\Debug\netcoreapp3.1\OO_Exercicio_02.exe
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\bin\Debug\netcoreapp3.1\OO_Exercicio_02.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\bin\Debug\netcoreapp3.1\OO_Exercicio_02.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\bin\Debug\netcoreapp3.1\OO_Exercicio_02.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\bin\Debug\netcoreapp3.1\OO_Exercicio_02.dll
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\bin\Debug\netcoreapp3.1\OO_Exercicio_02.pdb
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\obj\Debug\netcoreapp3.1\OO_Exercicio_02.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\obj\Debug\netcoreapp3.1\OO_Exercicio_02.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\obj\Debug\netcoreapp3.1\OO_Exercicio_02.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\obj\Debug\netcoreapp3.1\OO_Exercicio_02.dll
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\obj\Debug\netcoreapp3.1\OO_Exercicio_02.pdb
+C:\xampp\htdocs\git\Curso-Csharp\OO_Exercicio_02\OO_Exercicio_02\obj\Debug\netcoreapp3.1\OO_Exercicio_02.genruntimeconfig.cache
