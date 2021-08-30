@@ -7,47 +7,46 @@ namespace ContaBancaria
     class Conta
     {
         // ATRIBUTOS
-        private int Numero { get; set; }
-        private int Titular { get; set; }
-        private int _saldo;
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
+        public double Saldo { get; private set; }
+
+
 
         // CONSTRUTOR
-        public Conta(int numero, int titular, int saldo)
+        public Conta(int numero, string titular)
         {
             Numero = numero;
             Titular = titular;
-            _saldo = saldo;
+        }
+    
+        public Conta(int numero, string titular, double saldo) : this(numero, titular)
+        {
+            Saldo = saldo;
         }
 
-        public Conta()
-        {
-        }
+        public Conta() {}
+
+
 
         // MÉTODOS
-        public int Saldo
+        public void Deposito(double valor)
         {
-            get { return _saldo; }
-            set
-            {
-                _saldo += Saldo;
-            }
+            Saldo += valor;
         }
 
-        override
-        public string ToString()
+
+        public override string ToString()
         {
-            return
-                "Conta número: "
+            return "Conta número: "
                 + Numero
                 + "\n"
                 + "Titular: "
                 + Titular
                 + "\n"
                 + "Saldo: "
-                + _saldo.ToString("F2")
+                + Saldo.ToString("F2")
                 + "\n";
         }
-        
-
     }
 }
