@@ -13,29 +13,36 @@ namespace ContaBancaria
 
 
 
-        // CONSTRUTOR
+        // CONSTRUTOR COM SOBRECARGA
         public Conta(int numero, string titular)
         {
             Numero = numero;
             Titular = titular;
         }
-    
-        public Conta(int numero, string titular, double saldo) : this(numero, titular)
+
+        // CONSTRUTOR COMPLETO
+        public Conta(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
 
+        // CONSTRUTOR VAZIO
         public Conta() {}
 
 
 
-        // MÉTODOS
+        // MÉTODOS CALCULADOS
         public void Deposito(double valor)
         {
             Saldo += valor;
         }
 
+        public void Saque(double valor)
+        {
+            Saldo -= valor + 5;
+        }
 
+        // MÉTODO TOSTRING
         public override string ToString()
         {
             return "Conta número: "
