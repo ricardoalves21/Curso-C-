@@ -1,0 +1,13 @@
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\bin\Debug\netcoreapp3.1\VetorClasse.exe
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\bin\Debug\netcoreapp3.1\VetorClasse.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\bin\Debug\netcoreapp3.1\VetorClasse.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\bin\Debug\netcoreapp3.1\VetorClasse.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\bin\Debug\netcoreapp3.1\VetorClasse.dll
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\bin\Debug\netcoreapp3.1\VetorClasse.pdb
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.dll
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.pdb
+C:\xampp\htdocs\git\Curso-Csharp\VetorClasse\VetorClasse\obj\Debug\netcoreapp3.1\VetorClasse.genruntimeconfig.cache
