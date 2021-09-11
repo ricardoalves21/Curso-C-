@@ -1,0 +1,12 @@
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\bin\Release\netcoreapp3.1\ExercicioVetores.exe
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\bin\Release\netcoreapp3.1\ExercicioVetores.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\bin\Release\netcoreapp3.1\ExercicioVetores.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\bin\Release\netcoreapp3.1\ExercicioVetores.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\bin\Release\netcoreapp3.1\ExercicioVetores.dll
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\bin\Release\netcoreapp3.1\ExercicioVetores.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\obj\Release\netcoreapp3.1\ExercicioVetores.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\obj\Release\netcoreapp3.1\ExercicioVetores.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\obj\Release\netcoreapp3.1\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\obj\Release\netcoreapp3.1\ExercicioVetores.dll
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\obj\Release\netcoreapp3.1\ExercicioVetores.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioVetores\ExercicioVetores\obj\Release\netcoreapp3.1\ExercicioVetores.genruntimeconfig.cache
