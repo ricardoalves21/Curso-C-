@@ -1,0 +1,12 @@
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\bin\Debug\netcoreapp3.1\ParamsOut.exe
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\bin\Debug\netcoreapp3.1\ParamsOut.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\bin\Debug\netcoreapp3.1\ParamsOut.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\bin\Debug\netcoreapp3.1\ParamsOut.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\bin\Debug\netcoreapp3.1\ParamsOut.dll
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\bin\Debug\netcoreapp3.1\ParamsOut.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\obj\Debug\netcoreapp3.1\ParamsOut.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\obj\Debug\netcoreapp3.1\ParamsOut.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\obj\Debug\netcoreapp3.1\ParamsOut.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\obj\Debug\netcoreapp3.1\ParamsOut.dll
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\obj\Debug\netcoreapp3.1\ParamsOut.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ParamsOut\ParamsOut\obj\Debug\netcoreapp3.1\ParamsOut.genruntimeconfig.cache
