@@ -1,0 +1,13 @@
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\bin\Debug\netcoreapp3.1\ParamsRef.exe
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\bin\Debug\netcoreapp3.1\ParamsRef.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\bin\Debug\netcoreapp3.1\ParamsRef.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\bin\Debug\netcoreapp3.1\ParamsRef.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\bin\Debug\netcoreapp3.1\ParamsRef.dll
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\bin\Debug\netcoreapp3.1\ParamsRef.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.dll
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ParamsRef\ParamsRef\obj\Debug\netcoreapp3.1\ParamsRef.genruntimeconfig.cache
