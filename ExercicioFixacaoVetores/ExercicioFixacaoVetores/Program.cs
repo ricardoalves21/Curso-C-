@@ -36,7 +36,7 @@ namespace ExercicioFixacaoVetores
             Console.Write("Entre com o percentual de aumento: ");
             double percAum = double.Parse(Console.ReadLine());
 
-
+            // inserir a operação de aumento salarial aqui...
 
             foreach (Colaborador x in col)
             {
