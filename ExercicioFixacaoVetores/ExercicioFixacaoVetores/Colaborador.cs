@@ -25,6 +25,12 @@ namespace ExercicioFixacaoVetores
             Nome = nome;
         }
 
+        public Colaborador(int id, double salario)
+        {
+            Id = id;
+            Salario = salario;
+        }
+
         public Colaborador()
         {}
 
@@ -32,11 +38,11 @@ namespace ExercicioFixacaoVetores
         public double aumentoSalario(int idAum, double aumento)
         {
             double percentual = aumento / 100;
-            double percAumento = Salario * percentual;
-            double novoSalario = Salario + percAumento;
-            Salario = novoSalario;
+            double valorAumento = Salario * percentual;
+            double novoSalario = Salario + valorAumento;
 
-            return novoSalario;
+            return Salario = novoSalario;
+            
         }
 
         public override string ToString()

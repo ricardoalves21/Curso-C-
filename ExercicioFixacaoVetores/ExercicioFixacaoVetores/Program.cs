@@ -13,9 +13,10 @@ namespace ExercicioFixacaoVetores
             Console.Write("Quantos colaboradores você irá registrar? ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.Write("Colaborador #" + i + ": ");
+                Console.WriteLine("Colaborador #" + (i+1)+ ": ");
+                Console.Write("Qual será o ID do colaborador? ");
                 int id = int.Parse(Console.ReadLine());
 
                 Console.Write("Nome: ");
@@ -24,18 +25,24 @@ namespace ExercicioFixacaoVetores
                 Console.Write("Salario: ");
                 double salario = double.Parse(Console.ReadLine());
 
-                Console.Write("Entre com o ID do colaborador que terá o salário aumentado: ");
-                int idAum = int.Parse(Console.ReadLine());
+                col.Add(new Colaborador(id, nome, salario));
 
-                Console.Write("Entre com o percentual de aumento: ");
-                double percAum = double.Parse(Console.ReadLine());
-
-                colab.aumentoSalario(idAum, percAum);
-
-                
-                
-
+                Console.WriteLine();
             }
+
+            Console.Write("Entre com o ID do colaborador que terá o salário aumentado: ");
+            int idAum = int.Parse(Console.ReadLine());
+
+            Console.Write("Entre com o percentual de aumento: ");
+            double percAum = double.Parse(Console.ReadLine());
+
+
+
+            foreach (Colaborador x in col)
+            {
+                Console.WriteLine(x);
+            }
+
 
 
         }

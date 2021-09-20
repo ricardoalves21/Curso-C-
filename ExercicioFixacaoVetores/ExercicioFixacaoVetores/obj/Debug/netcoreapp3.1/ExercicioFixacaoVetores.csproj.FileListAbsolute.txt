@@ -1,0 +1,13 @@
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\netcoreapp3.1\ExercicioFixacaoVetores.exe
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\netcoreapp3.1\ExercicioFixacaoVetores.deps.json
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\netcoreapp3.1\ExercicioFixacaoVetores.runtimeconfig.json
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\netcoreapp3.1\ExercicioFixacaoVetores.runtimeconfig.dev.json
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\netcoreapp3.1\ExercicioFixacaoVetores.dll
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\netcoreapp3.1\ExercicioFixacaoVetores.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.AssemblyInfo.cs
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.dll
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.pdb
+C:\xampp\htdocs\git\Curso-Csharp\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\netcoreapp3.1\ExercicioFixacaoVetores.genruntimeconfig.cache
