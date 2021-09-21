@@ -36,15 +36,13 @@ namespace ExercicioFixacaoVetores
             Console.Write("Entre com o percentual de aumento: ");
             double percAum = double.Parse(Console.ReadLine());
 
-            // inserir a operação de aumento salarial aqui...
+            int indice = col.FindIndex(x => x.Id == idAum);
+            col[indice].aumentoSalario(idAum, percAum);
 
             foreach (Colaborador x in col)
             {
                 Console.WriteLine(x);
             }
-
-
-
         }
     }
 }
