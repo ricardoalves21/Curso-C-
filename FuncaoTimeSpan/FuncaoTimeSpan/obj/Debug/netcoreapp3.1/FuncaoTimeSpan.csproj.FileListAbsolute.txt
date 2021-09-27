@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\bin\Debug\netcoreapp3.1\FuncaoTimeSpan.exe
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\bin\Debug\netcoreapp3.1\FuncaoTimeSpan.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\bin\Debug\netcoreapp3.1\FuncaoTimeSpan.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\bin\Debug\netcoreapp3.1\FuncaoTimeSpan.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\bin\Debug\netcoreapp3.1\FuncaoTimeSpan.dll
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\bin\Debug\netcoreapp3.1\FuncaoTimeSpan.pdb
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.dll
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.pdb
+C:\xampp\htdocs\github\Curso-Csharp\FuncaoTimeSpan\FuncaoTimeSpan\obj\Debug\netcoreapp3.1\FuncaoTimeSpan.genruntimeconfig.cache
