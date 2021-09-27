@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\bin\Debug\netcoreapp3.1\OperacoesDateTime2.exe
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\bin\Debug\netcoreapp3.1\OperacoesDateTime2.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\bin\Debug\netcoreapp3.1\OperacoesDateTime2.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\bin\Debug\netcoreapp3.1\OperacoesDateTime2.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\bin\Debug\netcoreapp3.1\OperacoesDateTime2.dll
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\bin\Debug\netcoreapp3.1\OperacoesDateTime2.pdb
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.dll
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.pdb
+C:\xampp\htdocs\github\Curso-Csharp\OperacoesDateTime2\OperacoesDateTime2\obj\Debug\netcoreapp3.1\OperacoesDateTime2.genruntimeconfig.cache
