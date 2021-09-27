@@ -1,0 +1,12 @@
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\bin\Debug\netcoreapp3.1\FuncaoData.exe
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\bin\Debug\netcoreapp3.1\FuncaoData.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\bin\Debug\netcoreapp3.1\FuncaoData.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\bin\Debug\netcoreapp3.1\FuncaoData.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\bin\Debug\netcoreapp3.1\FuncaoData.dll
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\bin\Debug\netcoreapp3.1\FuncaoData.pdb
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\obj\Debug\netcoreapp3.1\FuncaoData.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\obj\Debug\netcoreapp3.1\FuncaoData.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\obj\Debug\netcoreapp3.1\FuncaoData.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\obj\Debug\netcoreapp3.1\FuncaoData.dll
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\obj\Debug\netcoreapp3.1\FuncaoData.pdb
+C:\xampp\htdocs\github\Curso-Csharp\DateTime\DateTime\obj\Debug\netcoreapp3.1\FuncaoData.genruntimeconfig.cache

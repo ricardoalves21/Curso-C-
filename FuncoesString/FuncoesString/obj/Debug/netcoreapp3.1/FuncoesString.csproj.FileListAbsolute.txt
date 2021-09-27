@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.exe
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.dll
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.dll
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\xampp\htdocs\github\Curso-Csharp\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.genruntimeconfig.cache
