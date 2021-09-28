@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PropriedadesTimeSpan/1.0.0": {
+        "runtime": {
+          "PropriedadesTimeSpan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropriedadesTimeSpan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
