@@ -1,0 +1,4 @@
+C:\xampp\htdocs\github\Curso-Csharp\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.csproj.CoreCompileInputs.cache
