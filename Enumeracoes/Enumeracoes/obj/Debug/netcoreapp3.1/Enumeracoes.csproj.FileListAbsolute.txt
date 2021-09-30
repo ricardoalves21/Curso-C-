@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.exe
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.dll
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.pdb
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.dll
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.pdb
+C:\xampp\htdocs\github\Curso-Csharp\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.genruntimeconfig.cache
