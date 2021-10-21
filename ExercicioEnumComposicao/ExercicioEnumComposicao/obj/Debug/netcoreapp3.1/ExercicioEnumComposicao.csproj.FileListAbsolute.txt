@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\netcoreapp3.1\ExercicioEnumComposicao.exe
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\netcoreapp3.1\ExercicioEnumComposicao.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\netcoreapp3.1\ExercicioEnumComposicao.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\netcoreapp3.1\ExercicioEnumComposicao.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\netcoreapp3.1\ExercicioEnumComposicao.dll
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\netcoreapp3.1\ExercicioEnumComposicao.pdb
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.dll
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.pdb
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\netcoreapp3.1\ExercicioEnumComposicao.genruntimeconfig.cache
