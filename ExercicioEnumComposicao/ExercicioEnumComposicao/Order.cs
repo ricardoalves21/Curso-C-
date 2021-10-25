@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace ExercicioEnumComposicao
 {
@@ -12,10 +13,11 @@ namespace ExercicioEnumComposicao
         public List<OrderItem> Items { get; set; } = new List<OrderItem>(); // composição lista (relação tem muitos)
 
         // construtores
-        public Order(DateTime moment, OrderStatus status)
+        public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
             Status = status;
+            Client = client;
         }
 
         public Order()
@@ -38,11 +40,24 @@ namespace ExercicioEnumComposicao
         public double totalPedido()
         {
             double sum = 0;
-            foreach(OrderItem items in Items)
+            foreach(OrderItem sumItems in Items)
             {
-                sum += items.subTotal();
+                sum += sumItems.subTotal();
             }
             return sum;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order items:");
+
+            foreach (OrderItem c in Items)
+            {
+                sb.AppendLine(c.Product.Name.ToString() + ", $" + c.Price.ToString() + ", Quantity: " + c.Quantity.ToString() + ", Subtotal: " + c.subTotal());
+            }
+            
+            return sb.ToString();
         }
 
     }
