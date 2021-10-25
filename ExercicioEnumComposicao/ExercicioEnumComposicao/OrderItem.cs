@@ -1,4 +1,6 @@
-﻿
+﻿using System.Text;
+
+
 namespace ExercicioEnumComposicao
 {
     class OrderItem
@@ -25,6 +27,8 @@ namespace ExercicioEnumComposicao
         {
             return Quantity * Price;
         }
+
+ 
 
     }
 }
