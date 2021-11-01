@@ -50,7 +50,18 @@ namespace ExercicioHerancaPolimorfismo
             Console.WriteLine("PRICE TAGS:");
             Console.WriteLine();
 
-
+            foreach (Product p in listCommon)
+            {
+                Console.WriteLine(p);
+            }
+            foreach (ImportedProduct i in listImported)
+            {
+                Console.WriteLine(i);
+            }
+            foreach (UsedProduct u in listUsed)
+            {
+                Console.WriteLine(u);
+            }
         }
     }
 }
