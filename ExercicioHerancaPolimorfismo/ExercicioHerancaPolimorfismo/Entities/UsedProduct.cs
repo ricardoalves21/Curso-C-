@@ -24,7 +24,7 @@ namespace ExercicioHerancaPolimorfismo.Entities
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(Name + " (used) $ " + Price + " (Manufacture date: " + ManufacturedDate);
+            sb.Append(Name + " (used) $ " + Price + " (Manufacture date: " + ManufacturedDate + ")");
 
             return sb.ToString();
         }

@@ -22,7 +22,7 @@ namespace ExercicioHerancaPolimorfismo.Entities
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(Name + " $ " + Price + " (Customs fee: $ " + CustomFee);
+            sb.Append(Name + " $ " + Price + " (Customs fee: $ " + CustomFee + ")");
 
             return sb.ToString();
         }
