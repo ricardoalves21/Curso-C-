@@ -6,9 +6,12 @@ namespace ExercicioHerancaPolimorfismo.Entities
 {
     class UsedProduct : Product
     {
+        
+
         //atributos
         public DateTime ManufacturedDate { get; set; }
 
+        //construtor
         public UsedProduct(string name, double price, DateTime manufacturedDate) : base(name, price)
         {
             ManufacturedDate = manufacturedDate;
@@ -17,9 +20,13 @@ namespace ExercicioHerancaPolimorfismo.Entities
         {
         }
 
+        //métodos
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Name + " (used) $ " + Price + " (Manufacture date: " + ManufacturedDate);
+
+            return sb.ToString();
         }
 
     }

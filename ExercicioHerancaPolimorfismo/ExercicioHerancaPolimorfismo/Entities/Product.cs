@@ -21,13 +21,11 @@ namespace ExercicioHerancaPolimorfismo.Entities
         }
 
         // métodos
-        public virtual string priceTag()
+        public override string ToString()
         {
-            return Price.ToString();
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Name + " $ " + Price);
+            return sb.ToString();
         }
-
-
-
-
     }
 }
