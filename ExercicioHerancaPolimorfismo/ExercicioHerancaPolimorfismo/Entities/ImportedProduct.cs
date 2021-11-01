@@ -18,9 +18,13 @@ namespace ExercicioHerancaPolimorfismo.Entities
         {
         }
 
+        //métodos
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Name + " $ " + Price + " (Customs fee: $ " + CustomFee);
+
+            return sb.ToString();
         }
     }
 }
