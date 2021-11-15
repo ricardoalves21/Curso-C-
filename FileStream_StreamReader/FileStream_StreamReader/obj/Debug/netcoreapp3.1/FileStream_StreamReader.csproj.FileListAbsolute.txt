@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.exe
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.dll
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\netcoreapp3.1\FileStream_StreamReader.pdb
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.dll
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.pdb
+C:\xampp\htdocs\github\Curso-Csharp\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\netcoreapp3.1\FileStream_StreamReader.genruntimeconfig.cache
