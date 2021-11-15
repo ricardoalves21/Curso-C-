@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.exe
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.dll
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.pdb
+C:\xampp\htdocs\github\Curso-Csharp\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\Directory_DirectoryInfo.genruntimeconfig.cache
