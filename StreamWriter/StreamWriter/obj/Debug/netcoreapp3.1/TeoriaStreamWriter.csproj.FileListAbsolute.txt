@@ -1,0 +1,12 @@
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\TeoriaStreamWriter.exe
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\TeoriaStreamWriter.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\TeoriaStreamWriter.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\TeoriaStreamWriter.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\TeoriaStreamWriter.dll
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\TeoriaStreamWriter.pdb
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\TeoriaStreamWriter.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\TeoriaStreamWriter.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\TeoriaStreamWriter.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\TeoriaStreamWriter.dll
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\TeoriaStreamWriter.pdb
+C:\xampp\htdocs\github\Curso-Csharp\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\TeoriaStreamWriter.genruntimeconfig.cache
