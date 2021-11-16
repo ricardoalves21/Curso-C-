@@ -1,0 +1,13 @@
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\bin\Debug\netcoreapp3.1\ExercicioFiles.exe
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\bin\Debug\netcoreapp3.1\ExercicioFiles.deps.json
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\bin\Debug\netcoreapp3.1\ExercicioFiles.runtimeconfig.json
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\bin\Debug\netcoreapp3.1\ExercicioFiles.runtimeconfig.dev.json
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\bin\Debug\netcoreapp3.1\ExercicioFiles.dll
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\bin\Debug\netcoreapp3.1\ExercicioFiles.pdb
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.csproj.AssemblyReference.cache
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.AssemblyInfoInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.AssemblyInfo.cs
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.dll
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.pdb
+C:\xampp\htdocs\github\Curso-Csharp\ExercicioFiles\ExercicioFiles\obj\Debug\netcoreapp3.1\ExercicioFiles.genruntimeconfig.cache
