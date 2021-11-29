@@ -16,9 +16,9 @@ namespace ExercicioFixacaoInterface
             int number = int.Parse(Console.ReadLine());
             
             // data do contrato
-            Console.Write("Date (dd//MM/yyyy): ");
+            Console.Write("Date (dd/MM/yyyy): ");
             DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
-            
+
             // valor do contrato
             Console.Write("Contract value: ");
             double value = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -31,10 +31,19 @@ namespace ExercicioFixacaoInterface
             Contract contract = new Contract(number, date, value);
 
 
-            // instanciando a lista de parcelas
+            // instanciando as prestações em lista
             List<Installment> installments = new List<Installment>();
 
+            // preparando valor do contrato e datas para inserir na classe 'Installment'
+            double parcelaSemTaxaEjuros = value / qtdInstallments;
 
+            for (int i = 1; i <= qtdInstallments; i++)
+            {
+
+                date.AddMonths(i).ToString("dd/MM/yyyy");
+                installments.Add(new Installment(date, parcelaSemTaxaEjuros));               
+
+            }            
 
 
 
