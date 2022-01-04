@@ -33,7 +33,6 @@ namespace ExercicioFixacaoInterface
 
 
 
-
             /////// INSTANCIAR OBJETOS ///////
 
             // instanciando o objeto contrato
@@ -44,23 +43,6 @@ namespace ExercicioFixacaoInterface
 
             // instanciando as prestações em lista
             List<Installment> installments = new List<Installment>();
-
-            // preparando valor do contrato e datas para inserir na classe 'Installment'
-            double parcelaSemTaxaEjuros = value / qtdInstallments;
-
-            // preparar parcelas para as dadas
-            DateTime parcela;
-
-            for (int i = 1; i <= qtdInstallments; i++)
-            {
-
-                parcela = date.AddMonths(i);
-                installments.Add(new Installment(parcela, parcelaSemTaxaEjuros));               
-
-            }
-
-            ContractService contractService = new ContractService();
-            contractService.processContract(contract, qtdInstallments);
 
 
             Console.WriteLine(contract.ToString());
