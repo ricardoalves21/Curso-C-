@@ -9,13 +9,14 @@ namespace ExercicioFixacaoInterface.Service
     class ContractService
     {
 
-        // composição simples
-        public IOnlinePaymentService onlinePaymentService { get; set; } // ligando as classes 'ContractService' e 'OnlinePaymentService'
+        // injeção de dependência (para acessar todas as classes que implementam a interface)
+        public IOnlinePaymentService onlinePaymentService;
 
         
         //  métodos
         public void processContract(Contract contract, int months)
         {
+            onlinePaymentService.interest(contract.va)
         }
         
     }

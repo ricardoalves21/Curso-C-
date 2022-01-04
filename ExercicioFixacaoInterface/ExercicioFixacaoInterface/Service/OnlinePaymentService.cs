@@ -6,7 +6,7 @@ namespace ExercicioFixacaoInterface.Service
 {
     interface IOnlinePaymentService // interface do programa
     {
-        public double paymentFee(double amount);
-        public double interest(double amount, int months);
+        double interest(double amount, int months);
+        double paymentFee(double amount);
     }
 }
