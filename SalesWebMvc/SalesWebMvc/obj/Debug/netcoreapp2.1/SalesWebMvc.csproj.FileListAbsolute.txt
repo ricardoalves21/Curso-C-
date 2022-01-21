@@ -74,3 +74,4 @@ D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebM
 D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
