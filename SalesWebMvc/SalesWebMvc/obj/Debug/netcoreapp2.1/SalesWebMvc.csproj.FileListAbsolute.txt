@@ -43,3 +43,6 @@ D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebM
 D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecord\Index.cshtml.g.cs
+D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecord\SimpleSearch.cshtml.g.cs
+D:\Cursos\Curso-Csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecord\GroupingSearch.cshtml.g.cs
