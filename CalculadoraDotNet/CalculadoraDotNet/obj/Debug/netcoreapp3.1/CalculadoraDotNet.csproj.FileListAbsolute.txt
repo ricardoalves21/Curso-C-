@@ -1,0 +1,15 @@
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\bin\Debug\netcoreapp3.1\CalculadoraDotNet.exe
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\bin\Debug\netcoreapp3.1\CalculadoraDotNet.deps.json
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\bin\Debug\netcoreapp3.1\CalculadoraDotNet.runtimeconfig.json
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\bin\Debug\netcoreapp3.1\CalculadoraDotNet.runtimeconfig.dev.json
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\bin\Debug\netcoreapp3.1\CalculadoraDotNet.dll
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\bin\Debug\netcoreapp3.1\CalculadoraDotNet.pdb
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.csproj.AssemblyReference.cache
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.Form1.resources
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.csproj.GenerateResource.cache
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.AssemblyInfoInputs.cache
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.AssemblyInfo.cs
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.dll
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.pdb
+D:\Cursos\Curso-Csharp\CalculadoraDotNet\CalculadoraDotNet\obj\Debug\netcoreapp3.1\CalculadoraDotNet.genruntimeconfig.cache
